@@ -101,7 +101,7 @@ This README provides an overview of the topics covered in this workshop, which a
   - Lasso Regression (L1 Regularization)
   - Elastic Net
 
-## [Module 3: Dimensionality Reduction and Support Vector Machines](module3.md)
+## [Module 3: Dimensionality Reduction and Support Vector Machines](./chapters/module3.md)
 
 ### 3.1 Dimensionality Reduction: The Curse of Dimensionality
 - **Objective:** Learn about the challenges and techniques for reducing data dimensions.
